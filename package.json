@@ -22,9 +22,9 @@
   },
   "reactToolbox": {
     "include": [
+      "AVATAR",
       "BUTTON",
-      "CARD",
-      "AVATAR"
+      "CARD"
     ],
     "output": "src/assets/react-toolbox"
   }
